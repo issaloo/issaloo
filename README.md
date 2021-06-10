@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Issac Loo
+### Nice to meet you, I’m Issac Loo
+
 - 🔭 I’m currently working on [Advent Of Code](https://adventofcode.com/), [<img src="https://www.digestiblecontents.com/Icon-Logo.png" width="30"/>](https://www.digestiblecontents.com/), Computer Vision Project
 - 👀 I’m interested in Data Science, Data Analytics, Data Visualization, Consulting
 - 🌱 I’m currently learning Data Ontology, Machine Learning Techniques
