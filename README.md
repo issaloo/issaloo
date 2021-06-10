@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @issaloo
+- 👋 Hi, I’m Issac Loo
+- 🔭 I’m currently working on [Advent Of Code](https://adventofcode.com/), [<img src="https://www.digestiblecontents.com/Icon-Logo.png" width="30"/>](https://www.digestiblecontents.com/), Computer Vision Project
 - 👀 I’m interested in Data Science, Data Analytics, Data Visualization, and Consulting
-- 🌱 I’m currently learning Data Ontology
+- 🌱 I’m currently learning Data Ontology, Machine Learning Techniques
 - 📫 Connect with me on: [<img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" width="25"/>](https://www.linkedin.com/in/issac-loo-120b0163/)
 
 <!---
